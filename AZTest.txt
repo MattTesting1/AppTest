@@ -1,4 +1,0 @@
-  "AadClientId": "6fb80d2c-df0d-4035-aa9e-544e318719bf",
-  "AadSecret": "V4U8Q~x2ZZXDRrLwMp7Y9kB_o-y9CNyWvnfqraGe",
-  "AadTenantDomain": "PublixO365dev.onmicrosoft.com",
-  "AadTenantId": "2a8f4895-b660-4b29-aa0d-967c5ebb0c94",
